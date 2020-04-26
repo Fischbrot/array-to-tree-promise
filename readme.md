@@ -106,6 +106,5 @@ Convert a plain array of nodes (with pointers to parent nodes) to a a nested dat
 - **Array**: Result of transformation
 
 ## License
-
-Origin Source-Template @ [Philipp Alferov](https://github.com/alferov)
+Origin Source-Template @ [Philipp Alferov](https://github.com/alferov)  <br>
 MIT © [Stefan Jesner](https://github.com/Fischbrot)
