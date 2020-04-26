@@ -38,7 +38,9 @@ let dataOne = [
   }
 ];
 
-arrayToTree(dataOne);
+arrayToTree(dataOne).then(tree => {
+  console.log(tree)
+});
 
 /*
  * Output:
@@ -75,7 +77,9 @@ let dataTwo = [
 arrayToTree(dataTwo, {
   parentProperty: 'parent',
   customID: '_id'
-});
+}).then(tree => {
+  console.log(tree)
+})
 
 /*
  * Output:

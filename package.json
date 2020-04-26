@@ -1,6 +1,6 @@
 {
   "name": "array-to-tree-promise",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert a plain array of nodes (with pointers to parent nodes) to a tree with promises",
   "main": "index.js",
   "scripts": {
