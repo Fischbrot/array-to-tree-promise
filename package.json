@@ -1,0 +1,36 @@
+{
+  "name": "array-to-tree-promise",
+  "version": "1.0.1",
+  "description": "Convert a plain array of nodes (with pointers to parent nodes) to a tree with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "Fischbrot/array-to-tree-promise",
+  "keywords": [
+    "array",
+    "list",
+    "pointer",
+    "parent",
+    "to",
+    "tree",
+    "navigation",
+    "nested",
+    "array-to-tree",
+    "promises",
+    "promise",
+    "async"
+  ],
+  "author": {
+    "name": "Stefan Jesner",
+    "email": "stjesner@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash.keyby": "^4.6.0",
+    "nested-property": "^0.0.7"
+  }
+}
